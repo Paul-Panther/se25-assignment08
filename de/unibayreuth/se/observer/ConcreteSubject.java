@@ -1,5 +1,7 @@
 package de.unibayreuth.se.observer;
 
-public class ConcreteSubject {
-    // TODO
+import java.util.ArrayList;
+
+public class ConcreteSubject extends Subject {
+   //Todo
 }
